@@ -12,7 +12,7 @@ export const siteConfig: SiteConfig = {
 	subtitle: "博客",
 
 	// 站点 URL
-	site_url: "https://DoOoOoGe.github.io/blog",
+	site_url: "https://DoOoOoGe.github.io/blog/",
 
 	// 站点描述
 	description:
