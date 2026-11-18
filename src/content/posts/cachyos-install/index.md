@@ -4,8 +4,8 @@ published: 2026-06-30
 description: 安装CachyOS双系统的遇到的问题及解决方法，包括硬盘分区、
 tags: [Linux, CachyOS, 双系统, Windows 11, 排雷]
 category: 双系统折腾
-pinned: true
-draft: true
+pinned: false
+draft: false
 ---
 
 # 引言
