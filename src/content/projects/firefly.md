@@ -18,6 +18,7 @@ link:
   - label: "文档"
     icon: "material-symbols:menu-book"
     value: "https://docs-firefly.cuteleaf.cn"
+draft: true
 ---
 
 ## 功能特性

@@ -57,28 +57,28 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 		icon: "material-symbols:person",
 		children: [
 			// 动态
-			LinkPresets.Dynamic,
+			// LinkPresets.Dynamic,
 
 			// 项目
-			LinkPresets.Projects,
+			// LinkPresets.Projects,
 
 			// 相册
-			LinkPresets.Gallery,
+			// LinkPresets.Gallery,
 
 			// 书签导航
-			LinkPresets.Booknav,
+			// LinkPresets.Booknav,
 
 			// 哔哩哔哩追番
-			LinkPresets.Bilibili,
+			// LinkPresets.Bilibili,
 
 			// 番组计划
-			LinkPresets.Bangumi,
+			// LinkPresets.Bangumi,
 
 			// VNDB
-			LinkPresets.VNDB,
+			// LinkPresets.VNDB,
 
 			// MyAnimeList
-			LinkPresets.MAL,
+			// LinkPresets.MAL,
 		],
 	});
 
@@ -89,7 +89,7 @@ const getDynamicNavBarConfig = (): NavBarConfig => {
 		icon: "material-symbols:info",
 		children: [
 			// 打赏
-			LinkPresets.Sponsor,
+			// LinkPresets.Sponsor,
 
 			// 关于页面
 			LinkPresets.About,
